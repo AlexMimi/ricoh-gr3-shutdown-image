@@ -13,7 +13,7 @@ Supported selections: GR IIIx Standard / HDF / Urban (official firmware 1.60), a
 
 Format the SD card in the camera first, then copy the extracted entry file, `DEVELOP.MOD`, `IMAGE.JPG` and `script` folder to its root. Follow the enclosed bilingual instructions for the staged MENU + Power / normal-start procedure. Formatting erases all card files: save your photographs first. Do not interrupt installation or format the card midway.
 
-“Black space at bottom” reserves a black area for camera text. “Fill to bottom” lets the camera text overlay the image. The anniversary example already reserves space for the text. Use the provided restore option to restore the shutdown screen; reinstalling official firmware may leave the modified image intact.
+“Black space at bottom (for black-background images)” reserves a black area for camera text. “Full screen” lets the camera text overlay the image. The anniversary example already reserves space for the text. Use the provided restore option to restore the shutdown screen; reinstalling official firmware may leave the modified image intact.
 
 The HTML includes all necessary code and assets and requires no build or installation. No firmware BIN is distributed in this repository.
 

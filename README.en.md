@@ -11,7 +11,7 @@ Open `index.html` in Safari or Chrome, select the correct camera variant and fir
 
 Supported selections: GR IIIx Standard / HDF / Urban (official firmware 1.60), and GR III Standard / HDF / Street / ING / Diary (official firmware 2.10). The installation workflow has been camera-tested on a standard GR IIIx 1.60; other variants and the latest anniversary image have not been camera-tested. GR IV packages are unavailable.
 
-Format the SD card in the camera first, then copy the extracted entry file, `DEVELOP.MOD`, `IMAGE.JPG` and `script` folder to its root. Follow the enclosed bilingual instructions for the staged MENU + Power / normal-start procedure. Formatting erases all card files: save your photographs first. Do not interrupt installation or format the card midway.
+Format the SD card in the camera first, then copy the extracted entry file, `DEVELOP.MOD`, `IMAGE.JPG` and `script` folder to its root. Follow the instructions on the webpage for the staged MENU + Power / normal-start procedure. Formatting erases all card files: save your photographs first. Do not interrupt installation or format the card midway.
 
 “Black space at bottom (for black-background images)” reserves a black area for camera text. “Full screen” lets the camera text overlay the image. The anniversary example already reserves space for the text. Use the provided restore option to restore the shutdown screen; reinstalling official firmware may leave the modified image intact.
 

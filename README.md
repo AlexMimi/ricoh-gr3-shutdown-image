@@ -17,6 +17,8 @@
 
 ## 使用
 
+[在 GitHub Pages 中打开工具](https://alexmimi.github.io/ricoh-gr3-shutdown-image/)
+
 1. 下载 `index.html`，用 Safari 或 Chrome 打开。
 2. 选择准确的机型和对应固件版本。上传自己的图片，或使用内置示例。
 3. 下载并解压安装包。先在相机内格式化 SD 卡，再将入口文件、`DEVELOP.MOD`、`IMAGE.JPG` 和 `script` 文件夹复制到卡根目录。

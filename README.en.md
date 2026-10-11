@@ -3,6 +3,8 @@
 [简体中文](README.md) | **English**
 
 
+[Open the tool on GitHub Pages](https://alexmimi.github.io/ricoh-gr3-shutdown-image/)
+
 A standalone webpage for creating shutdown images and SD card installation packages for RICOH GR III / GR IIIx.
 
 Open `index.html` in Safari or Chrome, select the correct camera variant and firmware, choose an image, and download the installation ZIP. The page includes an anniversary example, an optional camera-text preview, and collapsible restore / disable-Script options. The preview overlay is excluded from the downloaded image.
